@@ -1,0 +1,13 @@
+streamlit>=1.35
+sentinelhub>=3.10
+folium>=0.16
+streamlit-folium>=0.20
+plotly>=5.20
+reportlab>=4.1
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pillow>=10.0
+pandas>=2.0
+branca>=0.7
+contourpy>=1.2
